@@ -114,6 +114,7 @@ export interface Badges {
     broadcaster?: string;
     global_mod?: string;
     moderator?: string;
+    vip?: string;
     subscriber?: string;
     staff?: string;
     turbo?: string;
